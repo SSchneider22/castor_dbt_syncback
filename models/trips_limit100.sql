@@ -17,4 +17,3 @@ select
     customer_plan
 from citibike.trips
 limit 100
-;
